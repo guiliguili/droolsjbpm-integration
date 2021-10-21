@@ -20,6 +20,15 @@
     Drools and jBPM integration with seam, spring, camel, ...
   </description>
 
+  <!-- Uncomment this fragment to publish to an actual Maven remote repository.
+  <distributionManagement>
+    <repository>
+      <id>local-remote-repository</id>
+      <url>file:///path/to/remote</url>
+    </repository>
+  </distributionManagement>
+  -->
+
   <properties>
     <spotbugs.failOnViolation>true</spotbugs.failOnViolation>
   </properties>
